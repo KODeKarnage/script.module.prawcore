@@ -6,6 +6,7 @@
   <requires>
     <import addon="xbmc.python" version="2.7.0"/>
     <import addon="script.module.praw" version="4.4.0"/>
+    <import addon="script.module.requests" version="2.12.4"/>
   </requires>
   <extension point="xbmc.python.module"
              library="lib" />
